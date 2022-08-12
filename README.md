@@ -13,6 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparecidag365&show_icons=true&locale=en&layout=compact" alt="aparecidag365" /></p>
 
-locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_darkshow&hide_border=false&username=aparecidag365" height="150" alt="languages graph"  />
-
-<img src="https://github.com/aparecidag365/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparecidag365&aura_darkshow_icons=true&locale=en" alt="aparecidag365" /></p>
