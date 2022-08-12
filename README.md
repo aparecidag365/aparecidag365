@@ -1,4 +1,4 @@
-<h2 align="center">Meu nome é Aparecida Goulart Eleutério</h2>
+<h2 align="center">Meu nome é _Aparecida Goulart Eleutério_</h2>
 <h3 align="center">Sou formada em Sistemas de Informação.</h3>
 <h3 align="center">Atualmente estudante da Trybe.</h3>
 
@@ -8,13 +8,10 @@
     <td width="50%" style="border: none;">
 
 
-**Meu email:mgegoulart365@gmail.com**
-
-  **Meu Linkedin: [LinkedIn](https://www.linkedin.com/in/aparecida-goulart-eleuterio/)**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparecidag365&label=Profile%20views&color=0e75b6&style=flat" alt="aparecidag365" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+[LinkedIn](https://www.linkedin.com/in/aparecida-goulart-eleuterio/)
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aparecida-goulart-eleuterio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aparecida-goulart-eleuterio/" height="30" width="40" /></a>
 </p>
