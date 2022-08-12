@@ -14,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparecidag365&show_icons=true&locale=en&layout=compact" alt="aparecidag365" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparecidag365&aura_darkshow_icons=true&locale=en" alt="aparecidag365" /></p>
+
+<img src="https://github.com/edtmi/edtmi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
