@@ -1,6 +1,6 @@
-<h2 align="center">Meu nome é _Aparecida Goulart Eleutério_</h2>
+<h1 align="center">Meu nome é Aparecida Goulart Eleutério</h1>
 <h3 align="center">Sou formada em Sistemas de Informação.</h3>
-<h3 align="center">Atualmente estudante de desenvolvimento fullStack na Trybe.</h3>
+<h3 align="center">Atualmente estudante de desenvolvimento Web fullStack na Trybe.</h3>
 
 <table style="border:none;">
 <tbody style="border:none;">
