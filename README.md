@@ -2,6 +2,16 @@
 <h3 align="center">Sou formada em Sistemas de Informação.</h3>
 <h3 align="center">Atualmente estudante da Trybe.</h3>
 
+<table style="border:none;">
+<tbody style="border:none;">
+<tr style="border:none;">
+    <td width="50%" style="border: none;">
+
+
+**Meu email:mgegoulart365@gmail.com**
+
+  **Meu Linkedin: [LinkedIn](https://www.linkedin.com/in/aparecida-goulart-eleuterio/)**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparecidag365&label=Profile%20views&color=0e75b6&style=flat" alt="aparecidag365" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -14,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparecidag365&theme=aura_dark&show_icons=true&locale=en&layout=compact" alt="aparecidag365" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparecidag365&icons=true&locale=en" alt="aparecidag365" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparecidag365&theme=aura_dark&icons=true&locale=en" alt="aparecidag365" /></p>
