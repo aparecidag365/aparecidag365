@@ -24,9 +24,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
 ----------------------------------------------
 <div align="center" display="inline-block">
-  <a href="https://github.com/aparecidag365">
-    <img height="170em" width="400em" align="left" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparecidag365&theme=aura_dark&show_icons=true&locale=en&layout=compact" alt="aparecidag365" />
-    <img height="140px" width="50%" align="right" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api?username=aparecidag365&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide=issues&locale=pt-br" alt="aparecidag365" /> 
+  <a href="https://github.com/aparecidag365"> 
     <img height="170em" width="400em" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparecidag365&theme=aura_dark&show_icons=true&locale=en&layout=compact" alt="aparecidag365" />
     <img height="140px" width="50%" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api?username=aparecidag365&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide=issues&locale=pt-br" alt="aparecidag365" />
 --------------------------------------------
