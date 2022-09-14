@@ -29,7 +29,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/aparecidag365">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aparecidag365&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparecidag365&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aparecidag365&show_icons=true&theme=aura_dark&locale=pt-br&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparecidag365&locale=pt-br&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
 
